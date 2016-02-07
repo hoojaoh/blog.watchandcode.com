@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               The Watch and Code Blog
+tagline:             Tutorials and updates from watchandcode.com
+url:                 http://blog.watchandcode.com
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+  name:              Gordon Zhu
+  url:               https://twitter.com/gordon_zhu
+  email:             gordon@watchandcode.com
 
 # Gems
 gems:

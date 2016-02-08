@@ -25,6 +25,14 @@
         {{ content }}
       </main>
 
+      <footer class="footer">
+        <br>
+        <br>
+        <small>
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> Watch and Code.
+        </small>
+      </footer>
+
     </div>
 
     {% include analytics.html %}

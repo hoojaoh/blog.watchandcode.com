@@ -13,7 +13,7 @@ In this video tutorial, I'll show you how to start building an authentication sy
 When you combine authentication and data from Firebase with Angular, you get a really powerful toolset that allows you to build rich data-driven web applications without any server code at all.
 
 You can find a working demo with all the code here:
-[http://jsbin.com/hifelo/2/edit?html,js,output](http://jsbin.com/hifelo/2/edit?html,js,output)
+<a href="http://jsbin.com/hifelo/2/edit?html,js,output" target="_blank">http://jsbin.com/hifelo/2/edit?html,js,output</a>
 
 Switch out my Firebase URL and try creating a few users on your own!
 

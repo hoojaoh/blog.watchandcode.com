@@ -20,5 +20,5 @@ In the series, we'll build a working demo application and cover topics such as:
 - Handling token expiration
 - And much more!
 
-The tutorial series is currently a work in progress, so make sure to subscribe to get notified when new videos are 
-released.
+The tutorial series is currently a work in progress, so make sure to subscribe to blog updates below 
+to get notified when new videos are released.

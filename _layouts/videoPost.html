@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+<div class="container content" style="max-width: 970px">
+
+  <header class="masthead">
+    <h3 class="masthead-title">
+      <a href="/" title="Home">{{ site.title }}</a>
+
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <small><a href="/subscribe">Subscribe</a></small>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <small><a href="http://feeds.feedburner.com/TheWatchAndCodeBlog">RSS</a></small>
+
+    </h3>
+  </header>
+
+  <main>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+
+    <br>
+    <iframe width="916" height="510" src="{{ page.youtubeEmbed }}" frameborder="0" allowfullscreen></iframe>
+    <br>
+    <br>
+
+    {{ content }}
+
+    {% include plugs.html %}
+    {% include comments.html %}
+  </main>
+
+  <footer class="footer">
+    <br>
+    <br>
+    <small>
+      &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> Watch and Code.
+    </small>
+  </footer>
+
+</div>
+
+{% include analytics.html %}
+
+{% include olark.html %}
+
+</body>
+</html>

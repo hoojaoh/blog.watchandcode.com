@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Entirely New Angular Course!"
+title: "An entirely new Angular Course!"
 date: 2015-12-26
 ---
 

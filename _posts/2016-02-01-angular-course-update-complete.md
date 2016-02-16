@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Angular Course Update Complete"
+title: "Angular Course update complete"
 date: 2016-02-01
 ---
 

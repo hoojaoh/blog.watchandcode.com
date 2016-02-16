@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A New Course All About Firebase"
+title: "A new course all about Firebase"
 date: 2016-02-15
 ---
 

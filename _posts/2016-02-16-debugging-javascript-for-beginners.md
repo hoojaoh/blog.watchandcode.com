@@ -7,12 +7,8 @@ youtubeEmbed: "https://www.youtube.com/embed/videoseries?list=PLViRFZPCqDBfpIdhW
 
 ---
 
-<strong>One sentence summary:</strong>
-
 If you don't know how to use the debugger, drop everything you're doing and watch these videos now. This is required 
 viewing and you can thank me later.
-
-<strong>The full story:</strong>
 
 From the hundreds of individual conversations I've had with new programmers, a shockingly small number have even been 
 exposed to any sort of debugging tool. Most do not even know what debugger is. This was especially hard to understand, 

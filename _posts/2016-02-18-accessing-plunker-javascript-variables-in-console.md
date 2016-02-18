@@ -4,7 +4,7 @@ title: "Accessing Plunker JavaScript variables in the console"
 date: 2016-02-18
 ---
 
-I've really love <a href="http://plnkr.co" target="_blank">Plunker</a>. It's perfect for testing quick snippets of code. But it took me a while to figure 
+I really love <a href="http://plnkr.co" target="_blank">Plunker</a>. It's perfect for testing quick snippets of code. But it took me a while to figure 
 out how to get access to my JavaScript inside of the console. Usually in the console, you can print out values in your 
 JavaScript, but that doesn't work by default with Plunker. 
 

@@ -4,6 +4,12 @@ title: "Accessing Plunker JavaScript variables in the console"
 date: 2016-02-18
 ---
 
+*Edit: Can't believe that Plunker retweeted this post!*
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Short, sweet and oh so useful. <a href="https://t.co/VWiTWF81ZZ">https://t.co/VWiTWF81ZZ</a></p>&mdash; Plunker (@plnkrco) <a href="https://twitter.com/plnkrco/status/700460901548351489">February 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<hr>
+
 I really love <a href="http://plnkr.co" target="_blank">Plunker</a>. It's perfect for testing quick snippets of code. But it took me a while to figure 
 out how to get access to my JavaScript inside of the console. Usually in the console, you can print out values in your 
 JavaScript, but that doesn't work by default with Plunker. 

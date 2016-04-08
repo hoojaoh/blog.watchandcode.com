@@ -23,3 +23,5 @@ This was a massive effort that took many months of hard work, hundreds of hours 
 I really do believe that this is the finest Angular tutorial that you can get in the world. I'm incredibly proud of what I've put together and hope that it helps you in your career or gives you the inspiration to build that startup idea in your head.
 
 So as you're going through the course (or even just the free sample), please take a second and let me know how I'm doing (good or bad). I'm always trying to improve and your feedback is the most important thing that helps me get better.
+
+{% include plugAngular.html %}

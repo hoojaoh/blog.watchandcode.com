@@ -23,3 +23,5 @@ After playing around a little bit with the console, I figured out that you can e
 the context from `<top frame>` to `plunkerPreviewTarget(run.plnkr.co/)`.
 
 <img src="http://i.giphy.com/fSOGwRCPbZ06A.gif" alt="GIF showing how Plunker JavaScript variables are inaccessible from the console" width="630px">
+
+{% include plugPractical.html %}

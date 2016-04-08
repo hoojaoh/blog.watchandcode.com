@@ -22,3 +22,5 @@ Finally, everything has been updated to use the latest versions:
 
 * Uses the latest stable version of AngularJS, version 1.4.x.
 * Uses the latest stable version of AngularFire from Firebase.
+
+{% include plugAngular.html %}

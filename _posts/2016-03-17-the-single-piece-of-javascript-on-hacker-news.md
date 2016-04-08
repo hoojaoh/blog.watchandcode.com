@@ -41,3 +41,5 @@ networks. And if you're on Twitter, say hi! I'm
 <a href="https://twitter.com/gordon_zhu" target="_blank">
 @gordon_zhu</a>.
 
+{% include plugAngular.html %}
+

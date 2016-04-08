@@ -4,13 +4,9 @@ title: Home
 meta: Check out the blog for the latest tutorials and courses on AngularJS and JavaScript web development from the Watch and Code team.
 ---
 
-<div class="message">
-  <h2><a href="https://watchandcode.com/courses/angular-course/?utm_source=internal&utm_medium=watchandcodeblog&utm_campaign=blog">The Angular Course</a></h2>
-</div>
-
-<hr>
-
 <div>
+  <h1>The Watch and Code Blog</h1>
+  <br>
   {% for post in site.posts %}
   <h2>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h2>
   {% endfor %}

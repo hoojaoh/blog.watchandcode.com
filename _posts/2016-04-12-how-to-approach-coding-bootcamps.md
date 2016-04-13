@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My take on coding bootcamps
+title: How to approach coding bootcamps
 date: 2016-04-12
 ---
 

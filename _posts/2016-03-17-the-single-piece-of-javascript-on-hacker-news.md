@@ -40,6 +40,3 @@ If you liked this post, please help me out by sharing it on your social
 networks. And if you're on Twitter, say hi! I'm 
 <a href="https://twitter.com/gordon_zhu" target="_blank">
 @gordon_zhu</a>.
-
-{% include plugPractical.html %}
-

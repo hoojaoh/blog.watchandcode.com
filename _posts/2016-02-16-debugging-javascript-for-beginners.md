@@ -14,5 +14,3 @@ From the hundreds of individual conversations I've had with new programmers, a s
 exposed to any sort of debugging tool. Most do not even know what debugger is. This was especially hard to understand, 
 given that many had completed very long and difficult courses on JavaScript. The reason for this is very simple. Almost 
 no beginning programming resources explain how to use it. This post is my attempt to help the situation.
-
-{% include plugPractical.html %}
